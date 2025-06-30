@@ -1,8 +1,4 @@
-pandas
-matplotlib
-seaborn
-scikit-learn
-numpy
-scikit-surprise
-tensorflow
 streamlit
+pandas
+scikit-learn
+plotly
