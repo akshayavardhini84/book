@@ -62,10 +62,10 @@ st.markdown("""
 col1, col2 = st.columns([1, 1])
 with col1:
     if st.button("📖 Recommend Books"):
-        st.switch_page("Recommendation.py")  # No path or .py
+        st.switch_page("pages/Recommendation.py")  # No path or .py
 
 with col2:
     if st.button("📊 View Model Dashboard"):
-        st.switch_page("Dashboard.py")  # No path or .py
+        st.switch_page("pages/Dashboard.py")  # No path or .py
 st.markdown("</div>", unsafe_allow_html=True)
 st.markdown("<br><hr><br>", unsafe_allow_html=True)
