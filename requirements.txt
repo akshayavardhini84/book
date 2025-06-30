@@ -6,3 +6,4 @@ numpy
 scikit-surprise
 tensorflow
 streamlit
+plotly
